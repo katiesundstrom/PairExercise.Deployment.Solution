@@ -1,6 +1,7 @@
 import React from 'react'
 import User from './User.jsx'
 
+// eslint-disable-next-line react/display-name
 export default ({ users }) => (
   <div className="user-list">
 
