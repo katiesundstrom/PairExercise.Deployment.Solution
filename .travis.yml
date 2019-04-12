@@ -24,4 +24,4 @@ deploy:
   provider: heroku
   app: heroku-gh-workshop # see README
   api_key:
-    secure: YOUR-***ENCRYPTED***-API-KEY-HERE
+    secure: ZoEghzx8xOLAAu+78+KqTr8krOy5x1YmxLJtjw/36KpJ/h/YFM/RVycuwJqzsmWv/5rdg5xr9BaxIkFg/jHrvkzWKgi62FOxLvI8bqS486GsZ1OqWUhLtybEawuGZlxG2Efb2IhaKZ8F1VmZjmqb5+yIv+B0/nN7qpFPSP6k0u3PdUUSoCh+0WK+F3WNKba0T/bRb2kK4lJl0/MS6cwCTMJcna8FLvp1EiM/UWVbSge6I3fBU0GayGt/ywBg0/TJ3PtTqkoMaAIyXeDFCLalGpt81gfTcKh05RQ45M5WQAzrTIKyngYv5CUKU/XhJtjoxlKiwKDiksz8OjIZRBquH+tqwhb3qGN0PRK89mgukHZjciEB5bc6mh5GbVHhALbGSSqeu0hJCbrxs4nrohOZ/T1rl5tvRT3vNy5dA22nCo60kKOSOO8q7N6r4jeTOJLuA3Y1oPt0/Bu3JKa+el5CfqJtEJfwTRtBd+SABA6dsM9ZmDn4ZodjQ+GGHI3jzzZ8MiO0llLaunyRPsA9UVPsf5+wBjuLxDRCTOYNBnUzwGNaFt0GG90DzDASmAHIa30RUrAi2AaA3x4oeITX0cTKsBC6OQhwLGioIexQ2ZJlVPf1ln9Ldng+B7G83ZZ/Xr4TgXGHj87t5LSX+d20M9FWu8rDELeAyzMQPihdz6c1GVw=
